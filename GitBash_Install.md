@@ -14,4 +14,4 @@ $ git config --global user.name "Emma Paris"
 $ git config --global user.email "eparis@atlassian.com"
 ```
 
-5. You are done . 
+5. You are done. 
