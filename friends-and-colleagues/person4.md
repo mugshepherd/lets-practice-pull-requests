@@ -1,10 +1,11 @@
-# Person 4: BC created this test file
+// BC created this test file
+# Person 4: Name, Last Name
 
-4th edition
 5th edition
 
+[http://www.test](Please click this to test) this link
 ## Whoami:
-Develop
+Developer
 
 ## Languages that I know:
 
@@ -12,7 +13,7 @@ Develop
 - CSS
 - Javascript
 - Python
-- and others  
+- and many others  
 
 
 

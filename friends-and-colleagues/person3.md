@@ -1,16 +1,14 @@
-# Person 3
+# Person 3 - Name, Last name
 
 ## Whoami:
-Develop
+Developer
 
 ## Languages that I know:
 
 - HTML
 - CSS
 - Javascript
-- Python
-- and others  
-
+- that's it. 
 
 
 ## Frameworks and Technologies that I know:
