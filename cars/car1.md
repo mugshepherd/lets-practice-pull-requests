@@ -1,1 +1,1 @@
-This is a new text file for feature 3
+This is a new text file for feature 1
