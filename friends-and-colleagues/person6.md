@@ -13,7 +13,6 @@ Develop
 
 - HTML
 - CSS
-- Javascript
 - Python
 - and others  
 
