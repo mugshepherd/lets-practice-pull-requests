@@ -1,8 +1,7 @@
 # Person 4: BC created this test file
 
-This is the new modification to the file.
-Third edition
 4th edition
+5th edition
 
 ## Whoami:
 Develop
