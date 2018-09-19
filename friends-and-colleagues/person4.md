@@ -1,5 +1,7 @@
 # Person 4: BC created this test file
 
+This is the new modification to the file.
+
 ## Whoami:
 Develop
 
