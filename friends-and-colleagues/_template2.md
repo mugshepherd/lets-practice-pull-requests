@@ -1,18 +1,18 @@
-# Name LastName
+# Prenom, Nom de Famille
 
-## About me:
-brief description 
-
-The is the new line that i have added.
-
-## Languages that I know:
-
-- include any coding languages you know here  // important information for this template.  
+## Tout sur moi:
+description brève 
 
 
-## Frameworks and Technologies that I know:
 
-- add any relevant details! 
+## Les langues que je connais:
+
+- Veuillez ajouter de l'information sure les langues que vous connaissez  
 
 
-add a personalized comment here!  
+## Frameworks et Technologies que je connais
+
+- Veuilluez ajouter de l'information util ici! 
+
+
+et n'oubliez pas d'ajouter tout autre information que vous trouvez utile.  
