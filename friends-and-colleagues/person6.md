@@ -1,4 +1,4 @@
-# Person 6`
+# Person 6
 
 asdfawergawee
 
@@ -24,5 +24,4 @@ Develop
 - Many of the most important frameworks, plus a number you've never heard of
 
 
-Contact information available upon request
-although you'll never get it
+Contact information not available.  
