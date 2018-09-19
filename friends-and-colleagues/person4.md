@@ -2,6 +2,7 @@
 
 4th edition
 5th edition
+6th edition
 
 ## Whoami:
 Develop

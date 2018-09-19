@@ -1,7 +1,9 @@
 # Name LastName
 
 ## About me:
-brief description 
+brief description
+New line for feature 2
+New line for feature 3
 
 The is the new line that i have added.
 
